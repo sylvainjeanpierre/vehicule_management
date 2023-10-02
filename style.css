@@ -1,0 +1,24 @@
+#vehicule1 {
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+}
+
+.boutons_veh1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+#vehicule2 {
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+}
+
+.boutons_veh2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 25px;
+}
